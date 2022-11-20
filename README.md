@@ -1,2 +1,2 @@
 # Algeria-Cities-58-Wilaya
-Wilaya - Dayra + Commune
+Wilaya + Dayra + Commune (Ar-Fr)
