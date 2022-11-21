@@ -3,6 +3,7 @@
   <wilaya code="01">
     <name>Adrar</name>
     <name_ar>أدرار</name_ar>
+    <codePostal>01000</codePostal>
     <dairas>
       <daira code="101">
         <name>Adrar</name>
@@ -109,6 +110,7 @@
   <wilaya code="02">
     <name>Chlef</name>
     <name_ar> الشلف</name_ar>
+    <codePostal>02000</codePostal>
     <dairas>
       <daira code="201">
         <name>Chlef</name>
@@ -333,6 +335,7 @@
   <wilaya code="03">
     <name>Laghouat</name>
     <name_ar>الأغواط</name_ar>
+    <codePostal>03000</codePostal>
     <dairas>
       <daira code="301">
         <name>Laghouat</name>
@@ -495,6 +498,7 @@
   <wilaya code="04">
     <name>Oum El Bouaghi</name>
     <name_ar>أم البواقي</name_ar>
+    <codePostal>04000</codePostal>
     <dairas>
       <daira code="401">
         <name>Oum El Bouaghi</name>
@@ -689,6 +693,7 @@
   <wilaya code="05">
     <name>Batna</name>
     <name_ar>باتنة</name_ar>
+    <codePostal>05000</codePostal>
     <dairas>
       <daira code="501">
         <name>Batna</name>
@@ -1065,6 +1070,7 @@
   <wilaya code="06">
     <name>Béjaïa</name>
     <name_ar> بجاية</name_ar>
+    <codePostal>06000</codePostal>
     <dairas>
       <daira code="601">
         <name>Bejaia</name>
@@ -1393,6 +1399,7 @@
   <wilaya code="07">
     <name>Biskra</name>
     <name_ar>بسكرة</name_ar>
+    <codePostal>07000</codePostal>
     <dairas>
       <daira code="701">
         <name>Biskra</name>
@@ -1567,6 +1574,7 @@
   <wilaya code="08">
     <name>Béchar</name>
     <name_ar>بشار</name_ar>
+    <codePostal>08000</codePostal>
     <dairas>
       <daira code="801">
         <name>Bechar</name>
@@ -1663,6 +1671,7 @@
   <wilaya code="09">
     <name>Blida</name>
     <name_ar>البليدة</name_ar>
+    <codePostal>09000</codePostal>
     <dairas>
       <daira code="901">
         <name>Blida</name>
@@ -1829,6 +1838,7 @@
   <wilaya code="10">
     <name>Bouira</name>
     <name_ar>البويرة</name_ar>
+    <codePostal>10000</codePostal>
     <dairas>
       <daira code="1001">
         <name>Bouira</name>
@@ -2087,6 +2097,7 @@
   <wilaya code="11">
     <name>Tamanrasset</name>
     <name_ar>تمنراست</name_ar>
+    <codePostal>11000</codePostal>
     <dairas>
       <daira code="1101">
         <name>Tamanrasset</name>
@@ -2131,6 +2142,7 @@
   <wilaya code="12">
     <name>Tébessa</name>
     <name_ar>تبسة</name_ar>
+    <codePostal>12000</codePostal>
     <dairas>
       <daira code="1201">
         <name>Tebessa</name>
@@ -2321,6 +2333,7 @@
   <wilaya code="13">
     <name>Tlemcen</name>
     <name_ar>تلمسان</name_ar>
+    <codePostal>13000</codePostal>
     <dairas>
       <daira code="1301">
         <name>Tlemcen</name>
@@ -2659,6 +2672,7 @@
   <wilaya code="14">
     <name>Tiaret</name>
     <name_ar>تيارت</name_ar>
+    <codePostal>14000</codePostal>
     <dairas>
       <daira code="1401">
         <name>Tiaret</name>
@@ -2917,6 +2931,7 @@
   <wilaya code="15">
     <name>Tizi Ouzou</name>
     <name_ar>تيزي وزو</name_ar>
+    <codePostal>15000</codePostal>
     <dairas>
       <daira code="1501">
         <name>Tizi Ouzou</name>
@@ -3317,6 +3332,7 @@
   <wilaya code="16">
     <name>Alger</name>
     <name_ar>الجزائر</name_ar>
+    <codePostal>16000</codePostal>
     <dairas>
       <daira code="1602">
         <name>Sidi M'hamed</name>
@@ -3629,6 +3645,7 @@
   <wilaya code="17">
     <name>Djelfa</name>
     <name_ar>الجلفة</name_ar>
+    <codePostal>17000</codePostal>
     <dairas>
       <daira code="1701">
         <name>Djelfa</name>
@@ -3851,6 +3868,7 @@
   <wilaya code="18">
     <name>Jijel</name>
     <name_ar>جيجل</name_ar>
+    <codePostal>18000</codePostal>
     <dairas>
       <daira code="1801">
         <name>Jijel</name>
@@ -4035,6 +4053,7 @@
   <wilaya code="19">
     <name>Sétif</name>
     <name_ar>سطيف</name_ar>
+    <codePostal>19000</codePostal>
     <dairas>
       <daira code="1901">
         <name>Setif</name>
@@ -4401,6 +4420,7 @@
   <wilaya code="20">
     <name>Saïda</name>
     <name_ar>سعيدة</name_ar>
+    <codePostal>20000</codePostal>
     <dairas>
       <daira code="2001">
         <name>Saida</name>
@@ -4507,6 +4527,7 @@
   <wilaya code="21">
     <name>Skikda</name>
     <name_ar>سكيكدة</name_ar>
+    <codePostal>21000</codePostal>    
     <dairas>
       <daira code="2101">
         <name>Skikda</name>
@@ -4743,6 +4764,7 @@
   <wilaya code="22">
     <name>Sidi Bel Abbès</name>
     <name_ar>سيدي بلعباس</name_ar>
+    <codePostal>22000</codePostal>
     <dairas>
       <daira code="2201">
         <name>Sidi Bel Abbes</name>
@@ -5047,6 +5069,7 @@
   <wilaya code="23">
     <name>Annaba</name>
     <name_ar>عنابة</name_ar>
+    <codePostal>23000</codePostal>
     <dairas>
       <daira code="2301">
         <name>Annaba</name>
@@ -5137,6 +5160,7 @@
   <wilaya code="24">
     <name>Guelma</name>
     <name_ar>قالمة</name_ar>
+    <codePostal>24000</codePostal>
     <dairas>
       <daira code="2401">
         <name>Guelma</name>
@@ -5339,6 +5363,7 @@
   <wilaya code="25">
     <name>Constantine</name>
     <name_ar>قسنطينة</name_ar>
+    <codePostal>25000</codePostal>
     <dairas>
       <daira code="2501">
         <name>Constantine</name>
@@ -5429,6 +5454,7 @@
   <wilaya code="26">
     <name>Médéa</name>
     <name_ar>المدية</name_ar>
+    <codePostal>26000</codePostal>
     <dairas>
       <daira code="2601">
         <name>Medea</name>
@@ -5805,6 +5831,7 @@
   <wilaya code="27">
     <name>Mostaganem</name>
     <name_ar>مستغانم</name_ar>
+    <codePostal>27000</codePostal>
     <dairas>
       <daira code="2701">
         <name>Mostaganem</name>
@@ -5999,6 +6026,7 @@
   <wilaya code="28">
     <name>M'Sila</name>
     <name_ar>المسيلة</name_ar>
+    <codePostal>28000</codePostal>
     <dairas>
       <daira code="2801">
         <name>M'sila</name>
@@ -6283,6 +6311,7 @@
   <wilaya code="29">
     <name>Mascara</name>
     <name_ar>معسكر</name_ar>
+    <codePostal>29000</codePostal>
     <dairas>
       <daira code="2901">
         <name>Mascara</name>
@@ -6573,6 +6602,7 @@
   <wilaya code="30">
     <name>Ouargla</name>
     <name_ar>ورقلة</name_ar>
+    <codePostal>30000</codePostal>
     <dairas>
       <daira code="3001">
         <name>Ouargla</name>
@@ -6641,6 +6671,7 @@
   <wilaya code="31">
     <name>Oran</name>
     <name_ar>وهران</name_ar>
+    <codePostal>31000</codePostal>
     <dairas>
       <daira code="3101">
         <name>Oran</name>
@@ -6805,6 +6836,7 @@
   <wilaya code="32">
     <name>El Bayadh</name>
     <name_ar>البيض</name_ar>
+    <codePostal>32000</codePostal>
     <dairas>
       <daira code="3201">
         <name>El Bayadh</name>
@@ -6837,20 +6869,25 @@
       <daira code="3203">
         <name>Brezina</name>
         <name_ar>بريزينة</name_ar>
-        <communes />
+		  <communes>
+			  <commune code="1141">
+                <name>Brezina</name>
+                <name_ar>بريزينة</name_ar>
+              </commune>
+			  <commune code="1149">
+                <name>Ghassoul</name>
+                <name_ar>الغاسول</name_ar>
+              </commune>
+			  <commune code="1151">
+                <name>Krakda</name>
+                <name_ar>كراكدة</name_ar>
+              </commune>
+		  </communes>
       </daira>
       <daira code="3204">
         <name>Boualem</name>
         <name_ar>بوعلام</name_ar>
-        <communes>
-          <commune code="1137">
-            <name>Arbaouat</name>
-            <name_ar>اربوات</name_ar>
-          </commune>
-          <commune code="1141">
-            <name>Brezina</name>
-            <name_ar>بريزينة</name_ar>
-          </commune>
+        <communes>              
           <commune code="1142">
             <name>Cheguig</name>
             <name_ar>الشقيق</name_ar>
@@ -6860,28 +6897,33 @@
       <daira code="3205">
         <name>Labiodh Sidi Cheikh</name>
         <name_ar>الأبيض سيدي الشيخ</name_ar>
-        <communes />
+        <communes>
+			  <commune code="1542">
+                <name>Labiodh Sidi Cheikh</name>
+                <name_ar>الأبيض سيدي الشيخ</name_ar>
+              </commune>
+			  <commune code="1146">
+                <name>El Bnoud</name>
+                <name_ar>البنود</name_ar>
+              </commune>  
+			  <commune code="1137">
+                <name>Arbaouat</name>
+                <name_ar>اربوات</name_ar>
+              </commune>    
+		      <commune code="1543">
+                <name>Ain El Orak</name>
+                <name_ar>عين العراك</name_ar>
+              </commune>
+		  </communes>
       </daira>
       <daira code="3206">
         <name>Bougtob</name>
         <name_ar>بوقطب</name_ar>
-        <communes>
-          <commune code="1143">
-            <name>Chellala</name>
-            <name_ar>شلالة</name_ar>
-          </commune>
+        <communes>          
           <commune code="1147">
             <name>El Kheither</name>
             <name_ar>الخيثر</name_ar>
-          </commune>
-          <commune code="1148">
-            <name>El Mehara</name>
-            <name_ar>المحرة</name_ar>
-          </commune>
-          <commune code="1149">
-            <name>Ghassoul</name>
-            <name_ar>الغاسول</name_ar>
-          </commune>
+          </commune>                 
           <commune code="1150">
             <name>Kef El Ahmar</name>
             <name_ar>الكاف الأحمر</name_ar>
@@ -6895,15 +6937,7 @@
           <commune code="1138">
             <name>Boualem</name>
             <name_ar>بوعلام</name_ar>
-          </commune>
-          <commune code="1146">
-            <name>El Bnoud</name>
-            <name_ar>البنود</name_ar>
-          </commune>
-          <commune code="1151">
-            <name>Krakda</name>
-            <name_ar>كراكدة</name_ar>
-          </commune>
+          </commune>                 
           <commune code="1156">
             <name>Stitten</name>
             <name_ar>ستيتن</name_ar>
@@ -6913,13 +6947,23 @@
       <daira code="3208">
         <name>Chellala</name>
         <name_ar>شلالة</name_ar>
-        <communes />
+        <communes>
+          <commune code="1143">
+            <name>Chellala</name>
+            <name_ar>شلالة</name_ar>
+          </commune>                
+           <commune code="1148">
+            <name>El Mehara</name>
+            <name_ar>المحرة</name_ar>
+          </commune>  
+        </communes>
       </daira>
     </dairas>
   </wilaya>
   <wilaya code="33">
     <name>Illizi</name>
     <name_ar>إليزي</name_ar>
+    <codePostal>33000</codePostal>
     <dairas>
       <daira code="3301">
         <name>Illizi</name>
@@ -6954,6 +6998,7 @@
   <wilaya code="34">
     <name>Bordj Bou Arreridj</name>
     <name_ar>برج بوعريريج</name_ar>
+    <codePostal>34000</codePostal>
     <dairas>
       <daira code="3401">
         <name>Bordj Bou Arreridj</name>
@@ -7156,6 +7201,7 @@
   <wilaya code="35">
     <name>Boumerdès</name>
     <name_ar>بومرداس</name_ar>
+    <codePostal>35000</codePostal>
     <dairas>
       <daira code="3501">
         <name>Boumerdes</name>
@@ -7344,6 +7390,7 @@
   <wilaya code="36">
     <name>El Tarf</name>
     <name_ar>الطارف</name_ar>
+    <codePostal>36000</codePostal>
     <dairas>
       <daira code="3601">
         <name>El Tarf</name>
@@ -7488,6 +7535,7 @@
   <wilaya code="37">
     <name>Tindouf</name>
     <name_ar>تندوف</name_ar>
+    <codePostal>37000</codePostal>
     <dairas>
       <daira code="3701">
         <name>Tindouf</name>
@@ -7508,6 +7556,7 @@
   <wilaya code="38">
     <name>Tissemsilt</name>
     <name_ar>تيسمسيلت</name_ar>
+    <codePostal>38000</codePostal>
     <dairas>
       <daira code="3801">
         <name>Tissemsilt</name>
@@ -7650,6 +7699,7 @@
   <wilaya code="39">
     <name>El Oued</name>
     <name_ar>الوادي</name_ar>
+    <codePostal>39000</codePostal>
     <dairas>
       <daira code="3901">
         <name>El Oued</name>
@@ -7804,6 +7854,7 @@
   <wilaya code="40">
     <name>Khenchela</name>
     <name_ar>خنشلة</name_ar>
+    <codePostal>40000</codePostal>
     <dairas>
       <daira code="4001">
         <name>Khenchela</name>
@@ -7942,6 +7993,7 @@
   <wilaya code="41">
     <name>Souk Ahras</name>
     <name_ar>سوق أهراس</name_ar>
+    <codePostal>41000</codePostal>
     <dairas>
       <daira code="4101">
         <name>Souk Ahras</name>
@@ -8112,6 +8164,7 @@
   <wilaya code="42">
     <name>Tipaza</name>
     <name_ar>تيبازة</name_ar>
+    <codePostal>42000</codePostal>
     <dairas>
       <daira code="4201">
         <name>Tipaza</name>
@@ -8290,6 +8343,7 @@
   <wilaya code="43">
     <name>Mila</name>
     <name_ar>ميلة</name_ar>
+    <codePostal>43000</codePostal>
     <dairas>
       <daira code="4301">
         <name>Mila</name>
@@ -8502,6 +8556,7 @@
   <wilaya code="44">
     <name>Aïn Defla</name>
     <name_ar>عين الدفلة</name_ar>
+    <codePostal>44000</codePostal>
     <dairas>
       <daira code="4401">
         <name>Ain Defla</name>
@@ -8736,6 +8791,7 @@
   <wilaya code="45">
     <name>Naâma</name>
     <name_ar>النعامة</name_ar>
+    <codePostal>45000</codePostal>
     <dairas>
       <daira code="4501">
         <name>Naama</name>
@@ -8832,6 +8888,7 @@
   <wilaya code="46">
     <name>Aïn Témouchent</name>
     <name_ar>عين تيموشنت</name_ar>
+    <codePostal>46000</codePostal>
     <dairas>
       <daira code="4601">
         <name>Ain Temouchent</name>
@@ -8998,6 +9055,7 @@
   <wilaya code="47">
     <name>Ghardaïa</name>
     <name_ar>غرداية</name_ar>
+    <codePostal>47000</codePostal>
     <dairas>
       <daira code="4701">
         <name>Ghardaia</name>
@@ -9096,6 +9154,7 @@
   <wilaya code="48">
     <name>Relizane</name>
     <name_ar>غليزان</name_ar>
+    <codePostal>48000</codePostal>
     <dairas>
       <daira code="4801">
         <name>Relizane</name>
@@ -9330,92 +9389,101 @@
     </dairas>
   </wilaya>
   <wilaya code="49">
-    <name>El M'ghair</name>
-    <name_ar>المغير</name_ar>
-    <dairas>
-      <daira code="3927">
-        <name>El Meghaier</name>
-        <name_ar>المغير</name_ar>
-        <communes>
-          <commune code="1284">
-            <name>El-M'ghaier</name>
-            <name_ar>المغير</name_ar>
-          </commune>
-          <commune code="1296">
-            <name>Oum Touyour</name>
-            <name_ar>أم الطيور</name_ar>
-          </commune>
-          <commune code="1302">
-            <name>Sidi Khelil</name>
-            <name_ar>سيدي خليل</name_ar>
-          </commune>
-          <commune code="1303">
-            <name>Still</name>
-            <name_ar>سطيل</name_ar>
-          </commune>
-        </communes>
-      </daira>
-      <daira code="3928">
-        <name>Djamaa</name>
-        <name_ar>جامعة</name_ar>
-        <communes>
-          <commune code="1281">
-            <name>Djamaa</name>
-            <name_ar>جامعة</name_ar>
-          </commune>
-          <commune code="1293">
-            <name>M'rara</name>
-            <name_ar>المرارة</name_ar>
-          </commune>
-          <commune code="1300">
-            <name>Sidi Amrane</name>
-            <name_ar>سيدي عمران</name_ar>
-          </commune>
-          <commune code="1306">
-            <name>Tenedla</name>
-            <name_ar>تندلة</name_ar>
-          </commune>
-        </communes>
-      </daira>            
-    </dairas>
+  	<name>Timimoun</name>
+  	<name_ar>تيميمون</name_ar>
+  	<codePostal>54000</codePostal>
+  	<dairas>
+  		<daira code="109">
+  			<name>Timimoun  </name>
+  			<name_ar>تيميمون</name_ar>
+  			<communes>
+  				<commune code="15">
+  					<name>Ouled Said</name>
+  					<name_ar>أولاد السعيد</name_ar>
+  				</commune>
+  				<commune code="24">
+  					<name>Timimoun</name>
+  					<name_ar>تيميمون</name_ar>
+  				</commune>
+  			</communes>
+  		</daira>
+  		<daira code="123">
+  			<name>Aougrout</name>
+  			<name_ar>أوقروت</name_ar>
+  			<communes>
+  				<commune code="3">
+  					<name>Aougrout</name>
+  					<name_ar>أوقروت</name_ar>
+  				</commune>
+  				<commune code="8">
+  					<name>Deldoul</name>
+  					<name_ar>دلدول</name_ar>
+  				</commune>
+  				<commune code="12">
+  					<name>Metarfa</name>
+  					<name_ar>المطارفة</name_ar>
+  				</commune>
+  			</communes>
+  		</daira>
+  		<daira code="103">
+  			<name>Charouine</name>
+  			<name_ar>شروين</name_ar>
+  			<communes>
+  				<commune code="7">
+  					<name>Charouine</name>
+  					<name_ar>شروين</name_ar>
+  				</commune>
+  				<commune code="14">
+  					<name>Ouled Aissa</name>
+  					<name_ar>أولاد عيسى</name_ar>
+  				</commune>
+  				<commune code="19">
+  					<name>Talmine</name>
+  					<name_ar>طالمين</name_ar>
+  				</commune>
+  			</communes>
+  		</daira>
+  		<daira code="116">
+  			<name>Tinerkouk</name>
+  			<name_ar>تنركوك</name_ar>
+  			<communes>
+  				<commune code="11">
+  					<name>Ksar Kaddour</name>
+  					<name_ar>قصر قدور</name_ar>
+  				</commune>
+  				<commune code="25">
+  					<name>Tinerkouk</name>
+  					<name_ar>تنركوك</name_ar>
+  				</commune>
+  			</communes>
+  		</daira>
+  	</dairas>
   </wilaya>
   <wilaya code="50">
-    <name>El Menia</name>
-    <name_ar>المنيعة</name_ar>
+    <name>Bordj Badji Mokhtar</name>
+    <name_ar>برج باجي مختار</name_ar>
+    <codePostal>52000</codePostal>
     <dairas>
-     <daira code="4702">
-        <name>El Menia</name>
-        <name_ar>المنيعة</name_ar>
+      <daira code="125">
+        <name>Bordj Badji Mokhtar</name>
+        <name_ar>برج باجي مختار</name_ar>
         <communes>
-          <commune code="1495">
-            <name>El Meniaa</name>
-            <name_ar>المنيعة</name_ar>
+          <commune code="5">
+            <name>Bordj Badji Mokhtar</name>
+            <name_ar>برج باجي مختار</name_ar>
           </commune>
-          <commune code="1499">
-            <name>Hassi Gara</name>
-            <name_ar>حاسي القارة</name_ar>
+          <commune code="23">
+            <name>Timiaouine</name>
+            <name_ar>تيمياوين</name_ar>
           </commune>
         </communes>
-      </daira>
-       <daira code="4801">
-        <name>Mansourah</name>
-        <name_ar>المنصورة</name_ar>
-        <communes>         
-          <commune code="1508">
-            <name>Mansourah</name>
-            <name_ar>المنصورة</name_ar>
-          </commune>  
-          <commune code="1508">
-            <name>Hassi Fehal</name>
-            <name_ar>حاسي الفحل</name_ar>
-          </commune>                       
-        </communes>
-       </daira>         
+      </daira>           
     </dairas>
   </wilaya>
   <wilaya code="51">
     <name>Ouled Djellal</name>
     <name_ar>أولاد جلال</name_ar>
+    <codePostal>51000</codePostal>
     <dairas>
        <daira code="705">
         <name>Ouled Djellal</name>
@@ -9456,30 +9524,11 @@
     </dairas>
   </wilaya>
   <wilaya code="52">
-    <name>Bordj Badji Mokhtar</name>
-    <name_ar>برج باجي مختار</name_ar>
-    <dairas>
-      <daira code="125">
-        <name>Bordj Badji Mokhtar</name>
-        <name_ar>برج باجي مختار</name_ar>
-        <communes>
-          <commune code="5">
-            <name>Bordj Badji Mokhtar</name>
-            <name_ar>برج باجي مختار</name_ar>
-          </commune>
-          <commune code="23">
-            <name>Timiaouine</name>
-            <name_ar>تيمياوين</name_ar>
-          </commune>
-        </communes>
-      </daira>           
-    </dairas>
-  </wilaya>
-  <wilaya code="53">
     <name>Béni Abbès</name>
     <name_ar>بني عباس</name_ar>
+    <codePostal>53000</codePostal>
     <dairas>
-    <daira code="807">
+     <daira code="807">
         <name>Beni Abbes</name>
         <name_ar>بني عباس</name_ar>
         <communes>
@@ -9546,80 +9595,69 @@
         </communes>
       </daira>          
     </dairas>
-  </wilaya>  
-  <wilaya code="54">
-    <name>Timimoun</name>
-    <name_ar>تيميمون</name_ar>
+  </wilaya>
+  <wilaya code="53">
+    <name>Ain Salah</name>
+    <name_ar>عين صالح</name_ar>
+    <codePostal>57000</codePostal>
     <dairas>
-      <daira code="109">
-        <name>Timimoun  </name>
-        <name_ar>تيميمون</name_ar>
+      <daira code="1108">
+        <name>Ain Salah</name>
+        <name_ar>عين صالح</name_ar>
         <communes>
-          <commune code="15">
-            <name>Ouled Said</name>
-            <name_ar>أولاد السعيد</name_ar>
+          <commune code="357">
+            <name>Ain Salah</name>
+            <name_ar>عين صالح</name_ar>
           </commune>
-          <commune code="24">
-            <name>Timimoun</name>
-            <name_ar>تيميمون</name_ar>
+          <commune code="358">
+            <name>Foggaret Ezzoua</name>
+            <name_ar>فقارة الزوى</name_ar>
+          </commune>
+        </communes>
+      </daira>
+      <daira code="1103">
+        <name>In Ghar</name>
+        <name_ar>إينغر</name_ar>
+        <communes>
+          <commune code="360">
+            <name>Inghar</name>
+            <name_ar>إينغر</name_ar>
+          </commune>
+        </communes>
+      </daira>      
+    </dairas>
+  </wilaya> 
+  <wilaya code="54">
+    <name>Ain Guezzam</name>
+    <name_ar>عين قزام</name_ar>
+    <codePostal>58000</codePostal>
+    <dairas>
+      <daira code="1104">
+        <name>Ain Guezzam</name>
+        <name_ar>عين قزام</name_ar>
+        <communes>
+          <commune code="356">
+            <name>Ain Guezzam</name>
+            <name_ar>عين قزام</name_ar>
           </commune>
         </communes>
       </daira>   
-      <daira code="123">
-        <name>Aougrout</name>
-        <name_ar>أوقروت</name_ar>
+      <daira code="1107">
+        <name>Tin Zouatine</name>
+        <name_ar>تين زواتين</name_ar>
         <communes>
-          <commune code="3">
-            <name>Aougrout</name>
-            <name_ar>أوقروت</name_ar>
-          </commune>
-          <commune code="8">
-            <name>Deldoul</name>
-            <name_ar>دلدول</name_ar>
-          </commune>
-          <commune code="12">
-            <name>Metarfa</name>
-            <name_ar>المطارفة</name_ar>
+          <commune code="363">
+            <name>Tin Zouatine</name>
+            <name_ar>تين زواتين</name_ar>
           </commune>
         </communes>
-      </daira>   
-      <daira code="103">
-        <name>Charouine</name>
-        <name_ar>شروين</name_ar>
-        <communes>
-          <commune code="7">
-            <name>Charouine</name>
-            <name_ar>شروين</name_ar>
-          </commune>
-          <commune code="14">
-            <name>Ouled Aissa</name>
-            <name_ar>أولاد عيسى</name_ar>
-          </commune>
-          <commune code="19">
-            <name>Talmine</name>
-            <name_ar>طالمين</name_ar>
-          </commune>
-        </communes>
-      </daira>         
-      <daira code="116">
-        <name>Tinerkouk</name>
-        <name_ar>تنركوك</name_ar>
-        <communes>
-          <commune code="11">
-            <name>Ksar Kaddour</name>
-            <name_ar>قصر قدور</name_ar>
-          </commune>
-          <commune code="25">
-            <name>Tinerkouk</name>
-            <name_ar>تنركوك</name_ar>
-          </commune>
-        </communes>
-      </daira>                  
+      </daira>      
     </dairas>
   </wilaya>
   <wilaya code="55">
     <name>Touggourt</name>
     <name_ar>تقرت</name_ar>
+    <codePostal>55000</codePostal>
     <dairas>
       <daira code="3013">
         <name>Touggourt</name>
@@ -9708,6 +9746,7 @@
   <wilaya code="56">
     <name>Djanet</name>
     <name_ar>جانت</name_ar>
+    <codePostal>56000</codePostal>
     <dairas>
       <daira code="3302">
         <name>Djanet</name>
@@ -9724,61 +9763,91 @@
         </communes>
       </daira>   
     </dairas>
-  </wilaya>  
+  </wilaya>
   <wilaya code="57">
-    <name>Ain Salah</name>
-    <name_ar>عين صالح</name_ar>
+    <name>El M'ghair</name>
+    <name_ar>المغير</name_ar>
+    <codePostal>49000</codePostal>
     <dairas>
-      <daira code="1108">
-        <name>Ain Salah</name>
-        <name_ar>عين صالح</name_ar>
+      <daira code="3927">
+        <name>El Meghaier</name>
+        <name_ar>المغير</name_ar>
         <communes>
-          <commune code="357">
-            <name>Ain Salah</name>
-            <name_ar>عين صالح</name_ar>
+          <commune code="1284">
+            <name>El-M'ghaier</name>
+            <name_ar>المغير</name_ar>
           </commune>
-          <commune code="358">
-            <name>Foggaret Ezzoua</name>
-            <name_ar>فقارة الزوى</name_ar>
+          <commune code="1296">
+            <name>Oum Touyour</name>
+            <name_ar>أم الطيور</name_ar>
+          </commune>
+          <commune code="1302">
+            <name>Sidi Khelil</name>
+            <name_ar>سيدي خليل</name_ar>
+          </commune>
+          <commune code="1303">
+            <name>Still</name>
+            <name_ar>سطيل</name_ar>
           </commune>
         </communes>
       </daira>
-      <daira code="1103">
-        <name>In Ghar</name>
-        <name_ar>إينغر</name_ar>
+      <daira code="3928">
+        <name>Djamaa</name>
+        <name_ar>جامعة</name_ar>
         <communes>
-          <commune code="360">
-            <name>Inghar</name>
-            <name_ar>إينغر</name_ar>
+          <commune code="1281">
+            <name>Djamaa</name>
+            <name_ar>جامعة</name_ar>
+          </commune>
+          <commune code="1293">
+            <name>M'rara</name>
+            <name_ar>المرارة</name_ar>
+          </commune>
+          <commune code="1300">
+            <name>Sidi Amrane</name>
+            <name_ar>سيدي عمران</name_ar>
+          </commune>
+          <commune code="1306">
+            <name>Tenedla</name>
+            <name_ar>تندلة</name_ar>
           </commune>
         </communes>
-      </daira>      
+      </daira>            
     </dairas>
-  </wilaya>  
+  </wilaya>
   <wilaya code="58">
-    <name>Ain Guezzam</name>
-    <name_ar>عين قزام</name_ar>
+    <name>El Menia</name>
+    <name_ar>المنيعة</name_ar>
+    <codePostal>50000</codePostal>
     <dairas>
-      <daira code="1104">
-        <name>Ain Guezzam</name>
-        <name_ar>عين قزام</name_ar>
+     <daira code="4702">
+        <name>El Menia</name>
+        <name_ar>المنيعة</name_ar>
         <communes>
-          <commune code="356">
-            <name>Ain Guezzam</name>
-            <name_ar>عين قزام</name_ar>
+          <commune code="1495">
+            <name>El Meniaa</name>
+            <name_ar>المنيعة</name_ar>
+          </commune>
+          <commune code="1499">
+            <name>Hassi Gara</name>
+            <name_ar>حاسي القارة</name_ar>
           </commune>
         </communes>
-      </daira>   
-      <daira code="1107">
-        <name>Tin Zouatine</name>
-        <name_ar>تين زواتين</name_ar>
-        <communes>
-          <commune code="363">
-            <name>Tin Zouatine</name>
-            <name_ar>تين زواتين</name_ar>
-          </commune>
+      </daira>
+       <daira code="4801">
+        <name>Mansourah</name>
+        <name_ar>المنصورة</name_ar>
+        <communes>         
+          <commune code="1508">
+            <name>Mansourah</name>
+            <name_ar>المنصورة</name_ar>
+          </commune>  
+          <commune code="1508">
+            <name>Hassi Fehal</name>
+            <name_ar>حاسي الفحل</name_ar>
+          </commune>                       
         </communes>
-      </daira>      
+       </daira>         
     </dairas>
   </wilaya>
 </wilayas>
