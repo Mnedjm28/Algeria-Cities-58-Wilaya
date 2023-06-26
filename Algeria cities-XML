@@ -9135,20 +9135,6 @@
           </commune>
         </communes>
       </daira>
-      <daira code="4713">
-        <name>Mansourah</name>
-        <name_ar>المنصورة</name_ar>
-        <communes>
-          <commune code="1498">
-            <name>Hassi Fehal</name>
-            <name_ar>حاسي الفحل</name_ar>
-          </commune>
-          <commune code="1500">
-            <name>Mansoura</name>
-            <name_ar>المنصورة</name_ar>
-          </commune>
-        </communes>
-      </daira>    
     </dairas>
   </wilaya>
   <wilaya code="48">
@@ -9834,20 +9820,20 @@
           </commune>
         </communes>
       </daira>
-       <daira code="4801">
-        <name>Mansourah</name>
-        <name_ar>المنصورة</name_ar>
-        <communes>         
-          <commune code="1508">
-            <name>Mansourah</name>
-            <name_ar>المنصورة</name_ar>
-          </commune>  
-          <commune code="1508">
-            <name>Hassi Fehal</name>
-            <name_ar>حاسي الفحل</name_ar>
-          </commune>                       
-        </communes>
-       </daira>         
+	  <daira code="4713">
+	    <name>Mansourah</name>
+	    <name_ar>المنصورة</name_ar>
+	    <communes>
+		    <commune code="1498">
+			    <name>Hassi Fehal</name>
+			    <name_ar>حاسي الفحل</name_ar>
+		    </commune>
+		    <commune code="1500">
+			    <name>Mansoura</name>
+			    <name_ar>المنصورة</name_ar>
+		    </commune>
+	    </communes>
+	  </daira>
     </dairas>
   </wilaya>
 </wilayas>
